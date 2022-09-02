@@ -1,0 +1,33 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color: #D68910;
+}
+
+.quem-somos{
+    background-color: #F5B041;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: white;
+}
+
+.row{
+    padding-top: 10px;
+}
+
+.serviços{
+    background-color:deepskyblue;
+}
+
+.bg-footer{
+    background-color: deepskyblue;
+    color: white;
+}
